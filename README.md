@@ -37,11 +37,12 @@ Permite abrir y ejecutar el videojuego directamente desde Unity sin configuracio
 ### 3️⃣ Videos e Instrucciones
 Carpeta que contiene:
 
-- **Videos demostrativos** del funcionamiento de Banana Runner
+- **Videos demostrativos** del funcionamiento de Marcianitos
 - **Instrucciones y guías** de uso
 
 Ideal para comprender el videojuego sin necesidad de descargar ni importar el proyecto completo en Unity.
 
 ---
 
-📌 *Este repositorio está pensado para facilitar tanto la revisión del código como la visualización y comprensión general del videojuego Banana Runner.*
+📌 *Este repositorio está pensado para facilitar tanto la revisión del código como la visualización y comprensión general del videojuego Marcianitos.*
+
