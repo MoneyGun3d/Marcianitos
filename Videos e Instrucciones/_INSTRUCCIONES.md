@@ -1,4 +1,4 @@
-# 🎮 INSTRUCCIONES DEL JUEGO
+# 🚀 INSTRUCCIONES - Marcianitos
 
 ## 🖥️ Descripción General
 
@@ -55,3 +55,4 @@ El jugador avanza continuamente **hacia arriba** mientras debe **evitar o destru
 ---
 
 📌 *Este juego combina una mecánica clásica con un sistema de penalización estratégica que añade dificultad y toma de decisiones al disparar.*
+
