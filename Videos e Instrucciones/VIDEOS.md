@@ -3,7 +3,7 @@
 Si no deseas **descargar e importar todo el proyecto** del videojuego, aquí puedes encontrar **videos que muestran su funcionamiento completo**.
 
 Estos videos te permitirán:
-- 🎮 Ver cómo se juega Marcianitos
+- 🎮 Ver cómo se juega **Marcianitos**
 - 🍌 Conocer sus mecánicas principales
 - 🖥️ Comprender la experiencia de usuario sin necesidad de instalar nada
 
@@ -16,3 +16,4 @@ Estos videos te permitirán:
 ---
 
 📌 *Estos videos son útiles para una revisión rápida del proyecto o para mostrar el juego a otras personas sin necesidad de Unity.*
+
