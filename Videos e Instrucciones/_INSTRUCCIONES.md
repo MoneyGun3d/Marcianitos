@@ -1,6 +1,6 @@
 # 🚀 INSTRUCCIONES - Marcianitos
 
-## 🖥️ Descripción General
+## 🖥️ Descripción del Juego
 
 Esta aplicación es un **videojuego desarrollado en Unity**, inspirado en el clásico estilo **“matamarcianos”**.
 
@@ -55,4 +55,5 @@ El jugador avanza continuamente **hacia arriba** mientras debe **evitar o destru
 ---
 
 📌 *Este juego combina una mecánica clásica con un sistema de penalización estratégica que añade dificultad y toma de decisiones al disparar.*
+
 
